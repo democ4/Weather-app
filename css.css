@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(0, 92, 92);
+}
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    border-radius: 30px;
+    height: 80vh;
+    width: 600px;
+    background:linear-gradient( rgb(0, 145, 145), rgb(0, 92, 92) );
+   
+}
+.rowcontain{
+    padding: 0 5px 0 5px;
+font-size: xx-large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bigtie{
+    text-align: center;
+    font-size: xx-large;
+}
+.searchbot{
+    text-align: center ;
+}
